@@ -1,6 +1,6 @@
 # ¡Hola! Soy un Desarrollador Full-Stack & Mobile 🚀
 
-Soy un desarrollador de software enfocado en construir aplicaciones nativas y sistemas backend distribuidos, escalables y en tiempo real. Mi experiencia abarca desde el diseño de arquitecturas móviles modernas en Android hasta la configuración de infraestructura, persistencia híbrida e integración de WebSockets en producción.
+Soy un desarrollador de software enfocado en construir aplicaciones nativas y sistemas backend distribuidos, escalables y en tiempo real. Mi experiencia abarca desde el diseño de arquitecturas móviles modernas en Android hasta la configuración de infraestructura, APIs, persistencia híbrida e integración de WebSockets en producción.
 
 ---
 
